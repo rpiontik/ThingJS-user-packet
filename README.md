@@ -1,15 +1,13 @@
-# ThingJS
+# Overview
 
-ThingJS is open source IoT platform.
-
-The repository is user packet with ready to use firmware and applications.
+The repository is user packet of ThingJS open source IoT platform. It contains ready to use firmware and applications.
 
 ## Deploy
 
 ### Linux
 1. Connect ESP32 to USB port
 2. Check available device /dev/ttyUSB0
-3.
+3. Run flash.sh
 ``` bash
 git clone https://github.com/rpiontik/ThingJS-user-packet
 cd ThingJS-user-packet
@@ -18,6 +16,17 @@ cd ThingJS-user-packet
 ```
 
 ### Windows
+1. Connect ESP32 to USB port
+2. Find virtual COM port of connection and run flash.bat 
+
+![COM port in system](images/win_port.jpg)
+
+``` bash
+git clone https://github.com/rpiontik/ThingJS-user-packet
+cd ThingJS-user-packet
+./flash.bat COM3
+
+```
 
 ## Use
 
@@ -26,7 +35,7 @@ cd ThingJS-user-packet
 3. Helper will help you to configure the device
 4. When device will connected, in footer will show IP of device in intranet You can use the device by intranet use this IP.
 
-![Helper start](images/helper_start.jpg) ![Helper start](images/helper_net.jpg)
+![Helper start](images/helper_start.jpg) ![Helper net](images/helper_net.jpg)
 
 
 ## Install ThingJS application

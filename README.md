@@ -19,7 +19,7 @@ cd ThingJS-user-packet
 
 ### Windows
 
-##Use
+## Use
 
 1. Connect your device to WiFi of ThingJS device (wf_test) with password 12345678
 2. For smartphone you will redirected to captive portal. For other devices need to open http://192.168.4.1 in a browser
@@ -29,7 +29,7 @@ cd ThingJS-user-packet
 ![Helper start](images/helper_start.jpg)
 
 
-##Install ThingJS application
+## Install ThingJS application
 
 1. Open http://[IP of device] in a browser
 2. Go to Settings -> Internet connection -> Applications
@@ -39,3 +39,8 @@ cd ThingJS-user-packet
 6. Click Install
 
 ![alt text](images/app_install.png)
+
+## Licensing
+ThingsJS is released under
+[GNU GPL v.2](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+open source license.

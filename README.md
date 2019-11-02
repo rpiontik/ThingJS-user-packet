@@ -23,10 +23,10 @@ cd ThingJS-user-packet
 
 1. Connect your device to WiFi of ThingJS device (wf_test) with password 12345678
 2. For smartphone you will redirected to captive portal. For other devices need to open http://192.168.4.1 in a browser
-3. Helper will help to configure the device
-4. When device will connected, in footer will show IP of device in intranet You can use the device by intranet use it IP.
+3. Helper will help you to configure the device
+4. When device will connected, in footer will show IP of device in intranet You can use the device by intranet use this IP.
 
-![Helper start](images/helper_start.jpg)
+![Helper start](images/helper_start.jpg) ![Helper start](images/helper_net.jpg)
 
 
 ## Install ThingJS application

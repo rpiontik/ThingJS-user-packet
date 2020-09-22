@@ -5,6 +5,8 @@ Simplest application to blink a LED.
 
 You can to test ThingJS by simplest task - LED blink. For test you need hardware: 
 
+# Hardware
+
 * ESP32 NodeMCU
  
 ![NodeMCU ESP32](../images/esp32devboard.png)
@@ -24,7 +26,7 @@ You can buy any items on [aliexpress](https://aliexpress.ru/wholesale?catId=0&in
 2. Run application;
 3. Control blinking with a checkbox "Blink state".
 
-![Blink board](../images/blink_app.png)
+![Blink application](../images/blink_app.png)
  
 
 # Licensing

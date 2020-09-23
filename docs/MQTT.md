@@ -13,7 +13,7 @@ You can see result on screen.
 You can buy any item on [aliexpress](https://aliexpress.ru/wholesale?catId=0&initiative_id=SB_20200922095325&SearchText=ESP32+Nodemcu).
 
 # Use
-1. Install application Clock;
+1. Install application;
 2. Run application.
 
 ![MQTT application](../images/mqtt_app.png)

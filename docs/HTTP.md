@@ -13,7 +13,7 @@ The application demonstrates the use of HTTP/HTTPS requests from chip.
 You can buy any item on [aliexpress](https://aliexpress.ru/wholesale?catId=0&initiative_id=SB_20200922095325&SearchText=ESP32+Nodemcu).
 
 # Use
-1. Install application Clock;
+1. Install application;
 2. Run application;
 3. Enter http/https website url;
 3. Click "Run".

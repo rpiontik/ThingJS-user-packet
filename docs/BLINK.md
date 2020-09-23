@@ -22,7 +22,7 @@ Otherwise, you need:
 You can buy any items on [aliexpress](https://aliexpress.ru/wholesale?catId=0&initiative_id=SB_20200922095325&SearchText=ESP32+Nodemcu).
 
 # Use
-1. Install application Blink;
+1. Install application;
 2. Run application;
 3. Control blinking with a checkbox "Blink state".
 

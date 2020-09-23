@@ -13,7 +13,7 @@ You can see chip's internal the time. The time is delivering from chip to fronte
 You can buy any item on [aliexpress](https://aliexpress.ru/wholesale?catId=0&initiative_id=SB_20200922095325&SearchText=ESP32+Nodemcu).
 
 # Use
-1. Install application Clock;
+1. Install application;
 2. Run application.
 
 ![Clock application](../images/clock_app.png)

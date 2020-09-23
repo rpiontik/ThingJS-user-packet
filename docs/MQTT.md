@@ -1,9 +1,9 @@
 # Overview
-HTTP/HTTPS request demonstrator.
+The application demonstrates integration via MQTT protocol
 
 # Description
-
-The application demonstrates the use of HTTP/HTTPS requests from chip.  
+The internal time of the chip is sending to and receiving from the MQTT broker.
+You can see result on screen.  
 
 # Hardware
 * ESP32 NodeMCU
@@ -14,14 +14,10 @@ You can buy any item on [aliexpress](https://aliexpress.ru/wholesale?catId=0&ini
 
 # Use
 1. Install application Clock;
-2. Run application;
-3. Enter http/https website url;
-3. Click "Run".
+2. Run application.
 
-After a few seconds, the application will show a report on the completed request. 
+![MQTT application](../images/mqtt_app.png)
 
-![HTTP application](../images/http_app.png)
- 
 
 # Licensing
 ThingsJS is released under

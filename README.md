@@ -49,7 +49,7 @@ cd ThingJS-user-packet
 1. [Blink](docs/BLINK.md) - Simplest application to blink an LED.
 2. [Clock](docs/CLOCK.md) - Application to show system time by UBUS.
 3. ds18x20 - Application to use OneWire bus and show temperature from sensors.
-4. http - HTTP/HTTPS request demonstrator.
+4. [http](docs/HTTP.md) - HTTP/HTTPS request demonstrator.
 5. mqtt - Application to demonstration integration with thing by MQTT protocol.
 6. thermostat - Climate control application.
 

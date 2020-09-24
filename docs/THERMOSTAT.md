@@ -41,11 +41,22 @@ You can buy any item on [aliexpress](https://aliexpress.ru/wholesale?catId=0&ini
 
 Indicators:
 1. Current temperature;
-2. Load status (on/of);
+2. Load status (on/off);
 3. Cloud connection. 
 
-![DS18B20 application](../images/thermostat_app.png)
+![Thermostat application](../images/thermostat_app.png)
 
+# Cloud connection (MQTT)
+1. Install any MQTT console application on your phone. Recommend:
+    * [MQTT Dash (RUS)](https://play.google.com/store/apps/details?id=net.routix.mqttdash)
+    * [IoT MQTT Panel (EN)](https://play.google.com/store/apps/details?id=snr.lab.iotmqttpanel.prod)
+    * You can choose any other application. 
+2. Configure mobile application using tab "MQTT"
+    * Add new connection;
+    * Enter server address and port (no ssl, no wss and etc);
+    * Add widgets for control the device.
+
+![Cloud application](../images/cloud_app.png)
 
 # Licensing
 ThingsJS is released under

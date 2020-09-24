@@ -51,7 +51,7 @@ cd ThingJS-user-packet
 3. [ds18x20](docs/DS18X20.md) - Application to use OneWire bus and show temperature from sensors.
 4. [http](docs/HTTP.md) - HTTP/HTTPS request demonstrator.
 5. [mqtt](docs/MQTT.md) - The application demonstrates integration via MQTT protocol.
-6. thermostat - Climate control application.
+6. [thermostat](docs/THERMOSTAT.md) - Climate control application.
 
 # Licensing
 ThingsJS is released under
